@@ -1,0 +1,1 @@
+Ahora si se pudo crear un commit y subir la carpeta, porque ésta ya no está vacía, contiene el archivo respuesta.txt
