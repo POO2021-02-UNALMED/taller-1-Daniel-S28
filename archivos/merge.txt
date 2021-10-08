@@ -1,3 +1,6 @@
 Daniel Santiago Cadavid Montoya
 20 años
 Aprender bastante de poo y a desarrollar un proyecto de programación en equipo
+Ahora si se pudo crear un commit y subir la carpeta, porque ésta ya no está vacía, contiene el archivo respuesta.txt
+
+Hay que tener cuidado ya que se pueden modificar cosas que tenía el otro archivo y generar conflictos en el funcionamiento del programa
